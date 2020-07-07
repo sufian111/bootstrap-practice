@@ -1,57 +1,59 @@
-.container{
-    margin-bottom: 100px;
+.icon img{
+    width: 30%;
 }
-.orange-bg{
-    background-color: #fceae8;
-    border-radius: 10px;
+.navbar{
+
 }
-.carousel-item{
-    padding: 20px 20px;
-}
-.price{
-    color: #ff136f;
-}
-.buy-now-button{
-    background-image: linear-gradient(to bottom,#ff589b 0%, #ff136f 100%);
-    color: #fff;
+button{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
     border: none;
-    border-radius: 8px;
-    padding: 9px 25px;
-    cursor: pointer;
 }
-.cat1{
-    background-color: orange;
-    padding: 10px 20px;
-    border-radius: 10px;
+.top{
+    background-color:  #F0FFF0;;
 }
-.cat2{
-    background-color: orchid;
-    padding: 10px 20px;
-    border-radius: 10px;
+.banner img{
+    width: 100%;
 }
-.cat3{
-    background-color: blue;
-    padding: 10px 20px;
-    border-radius: 10px;
+.head{
+    margin-top: 50px;
+    padding-bottom: 50px;
 }
-.categories h1{
-    color: white;
+#red{
+    color: #FD511A;
 }
-.categories img{
-    width: 100px;
+.head h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
 }
-.card{
-    border: none;
-    box-shadow: 5px 5px 10px lightgrey;
-    border-radius: 10px;
+#green{
+    color:rgb(33, 181, 115);
 }
-.card-footer{
-    background-color: white;
-    border-top: none;
+.adjust img{
+    width: 66px;
+height: 85px;
+    position: relative;
+    left: 40%;
 }
-#subscribe{
-    height: 300px;
-}
-footer{
+.adjust{
     text-align: center;
+}
+.card-title{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
 }
