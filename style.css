@@ -1,0 +1,59 @@
+.icon img{
+    width: 30%;
+}
+.navbar{
+
+}
+button{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+}
+.top{
+    background-color:  #F0FFF0;;
+}
+.banner img{
+    width: 100%;
+}
+.head{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+#red{
+    color: #FD511A;
+}
+.head h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+}
+#green{
+    color:rgb(33, 181, 115);
+}
+.adjust img{
+    width: 66px;
+height: 85px;
+    position: relative;
+    left: 40%;
+}
+.adjust{
+    text-align: center;
+}
+.card-title{
+    font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+}
