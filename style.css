@@ -89,3 +89,34 @@ line-height: 54px;
     box-shadow: 2px 2px 5px gray;
    padding: 15px 25px;
 }
+.testimonial h1{
+    text-align: center;
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+}
+.testimonial{
+    margin-top: 50px;
+} 
+.fixed img{
+    width: 100%;
+}
+.extra{
+    margin-top: 50px;
+}
+.finish{
+    background-color: rgb(40, 37, 49);
+    color: white;
+}
+.last{
+    padding-top: 50px;
+}
+.finish{
+    margin-top: 100px;
+}
+.copyright{
+    margin-top: 50px;
+    padding-bottom: 5px;
+}
